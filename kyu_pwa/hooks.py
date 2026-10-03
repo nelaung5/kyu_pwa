@@ -1,0 +1,6 @@
+app_name = "kyu_pwa"
+app_title = "Kyu PWA"
+app_publisher = "Kyu Terra"
+app_description = "Kyu Terra PWA customizations for Frappe applications"
+app_email = "info@kyuterra.com"
+app_license = "MIT"
